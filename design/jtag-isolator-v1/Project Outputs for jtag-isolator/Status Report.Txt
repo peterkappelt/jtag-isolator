@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [jtag-isolator.PrjPcb]
+   Generated File[jtag-isolator.TXT]
+   Generated File[jtag-isolator.LDP]
+   Generated File[jtag-isolator.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:03:16 On 05.03.2017
